@@ -4,7 +4,17 @@
   "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/20947.png",
   "coinlist": [
     {
-      "chainId": 36,
+      "network": "testnet",
+      "address": "0x2::sui::SUI",
+      "symbol": "SUI",
+      "name": "Sui Coin",
+      "decimals": 9,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/20947.png",
+      "tags": [],
+      "extensions": {}
+    },
+    {
+      "network": "devnet",
       "address": "0x2::sui::SUI",
       "symbol": "SUI",
       "name": "Sui Coin",
