@@ -1,0 +1,21 @@
+name: Purge JsDelvir CDN Cache
+
+on:
+  push:
+    branches: [master]
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Purge Request
+        id: purgeRequest
+        uses: fjogeleit/http-request-action@v1
+        with:
+          url: "https://purge.jsdelivr.net/gh/solflare-wallet/sui-coinlist@master/sui-coinlist.json"
+          method: "GET"
+      - name: Purge Response
+        run: |
+          echo ${{ steps.purgeRequest.outputs.response }}
+          echo ${{ steps.purgeRequest.outputs.headers }}
