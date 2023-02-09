@@ -22,6 +22,26 @@
       "logoURI": "https://cryptototem.com/wp-content/uploads/2022/08/SUI-logo.jpg",
       "tags": [],
       "extensions": {}
+    },
+    {
+      "network": "testnet",
+      "address": "0x2::sui::SUI",
+      "symbol": "SUI",
+      "name": "Sui Coin",
+      "decimals": 9,
+      "logoURI": "https://cryptototem.com/wp-content/uploads/2022/08/SUI-logo.jpg",
+      "tags": [],
+      "extensions": {}
+    },
+    {
+      "network": "devnet",
+      "address": "0x2::sui::SUI",
+      "symbol": "SUI",
+      "name": "Sui Coin",
+      "decimals": 9,
+      "logoURI": "https://cryptototem.com/wp-content/uploads/2022/08/SUI-logo.jpg",
+      "tags": [],
+      "extensions": {}
     }
   ]
 }
