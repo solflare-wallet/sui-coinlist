@@ -42,6 +42,192 @@
       "logoURI": "https://cryptototem.com/wp-content/uploads/2022/08/SUI-logo.jpg",
       "tags": [],
       "extensions": {}
+    },
+    {
+      "network": "testnet",
+      "address": "0xe158e6df182971bb6c85eb9de9fbfb460b68163d19afc45873c8672b5cc521b2::TOKEN::TestTEST",
+      "symbol": "TEST",
+      "name": "Test Token",
+      "logoURI": "https://suiswap.app/images/token/suiswap-test.svg",
+      "tags": [],
+      "decimals": 8,
+      "extensions": {}
+    },
+    {
+      "network": "testnet",
+      "address": "0xe158e6df182971bb6c85eb9de9fbfb460b68163d19afc45873c8672b5cc521b2::TOKEN::TestUSDT",
+      "symbol": "USDT",
+      "name": "Tether",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BQcdHdAQW1hczDbBi9hiegXAR7A98Q9jx3X3iBBBDiq4/logo.png",
+      "tags": [],
+      "decimals": 8,
+      "extensions": {
+        "coingeckoId": "tether"
+      }
+    },
+    {
+      "network": "testnet",
+      "address": "0xe158e6df182971bb6c85eb9de9fbfb460b68163d19afc45873c8672b5cc521b2::TOKEN::TestUSDC",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "usd-coin"
+      }
+    },
+    {
+      "network": "testnet",
+      "address": "0xe158e6df182971bb6c85eb9de9fbfb460b68163d19afc45873c8672b5cc521b2::TOKEN::TestSOL",
+      "symbol": "SOL",
+      "name": "Solana",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+      "decimals": 8,
+      "extensions": {
+        "coingeckoId": "solana"
+      }
+    },
+    {
+      "network": "testnet",
+      "address": "0xe158e6df182971bb6c85eb9de9fbfb460b68163d19afc45873c8672b5cc521b2::TOKEN::TestBTC",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E/logo.png",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "bitcoin"
+      }
+    },
+    {
+      "network": "testnet",
+      "address": "0xe158e6df182971bb6c85eb9de9fbfb460b68163d19afc45873c8672b5cc521b2::TOKEN::TestDAI",
+      "symbol": "DAI",
+      "name": "DAI",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1/logo.png",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "dai"
+      }
+    },
+    {
+      "network": "testnet",
+      "address": "0xe158e6df182971bb6c85eb9de9fbfb460b68163d19afc45873c8672b5cc521b2::TOKEN::TestBNB",
+      "symbol": "BNB",
+      "name": "BNB",
+      "logoURI": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "binancecoin"
+      }
+    },
+    {
+      "network": "testnet",
+      "address": "0xe158e6df182971bb6c85eb9de9fbfb460b68163d19afc45873c8672b5cc521b2::TOKEN::TestETH",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "ethereum"
+      }
+    },
+    {
+      "network": "devnet",
+      "address": "0xe158e6df182971bb6c85eb9de9fbfb460b68163d19afc45873c8672b5cc521b2::TOKEN::TestTEST",
+      "symbol": "TEST",
+      "name": "Test Token",
+      "logoURI": "https://suiswap.app/images/token/suiswap-test.svg",
+      "tags": [],
+      "decimals": 8,
+      "extensions": {}
+    },
+    {
+      "network": "devnet",
+      "address": "0xe158e6df182971bb6c85eb9de9fbfb460b68163d19afc45873c8672b5cc521b2::TOKEN::TestUSDT",
+      "symbol": "USDT",
+      "name": "Tether",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BQcdHdAQW1hczDbBi9hiegXAR7A98Q9jx3X3iBBBDiq4/logo.png",
+      "tags": [],
+      "decimals": 8,
+      "extensions": {
+        "coingeckoId": "tether"
+      }
+    },
+    {
+      "network": "devnet",
+      "address": "0xe158e6df182971bb6c85eb9de9fbfb460b68163d19afc45873c8672b5cc521b2::TOKEN::TestUSDC",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "usd-coin"
+      }
+    },
+    {
+      "network": "devnet",
+      "address": "0xe158e6df182971bb6c85eb9de9fbfb460b68163d19afc45873c8672b5cc521b2::TOKEN::TestSOL",
+      "symbol": "SOL",
+      "name": "Solana",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+      "decimals": 8,
+      "extensions": {
+        "coingeckoId": "solana"
+      }
+    },
+    {
+      "network": "devnet",
+      "address": "0xe158e6df182971bb6c85eb9de9fbfb460b68163d19afc45873c8672b5cc521b2::TOKEN::TestBTC",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E/logo.png",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "bitcoin"
+      }
+    },
+    {
+      "network": "devnet",
+      "address": "0xe158e6df182971bb6c85eb9de9fbfb460b68163d19afc45873c8672b5cc521b2::TOKEN::TestDAI",
+      "symbol": "DAI",
+      "name": "DAI",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1/logo.png",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "dai"
+      }
+    },
+    {
+      "network": "devnet",
+      "address": "0xe158e6df182971bb6c85eb9de9fbfb460b68163d19afc45873c8672b5cc521b2::TOKEN::TestBNB",
+      "symbol": "BNB",
+      "name": "BNB",
+      "logoURI": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "binancecoin"
+      }
+    },
+    {
+      "network": "devnet",
+      "address": "0xe158e6df182971bb6c85eb9de9fbfb460b68163d19afc45873c8672b5cc521b2::TOKEN::TestETH",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "ethereum"
+      }
     }
   ]
 }
