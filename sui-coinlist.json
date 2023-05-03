@@ -11,7 +11,9 @@
       "decimals": 9,
       "logoURI": "https://cryptototem.com/wp-content/uploads/2022/08/SUI-logo.jpg",
       "tags": [],
-      "extensions": {}
+      "extensions": {
+        "coingeckoId": "sui"
+      }
     },
     {
       "network": "testnet",
@@ -21,7 +23,9 @@
       "decimals": 9,
       "logoURI": "https://cryptototem.com/wp-content/uploads/2022/08/SUI-logo.jpg",
       "tags": [],
-      "extensions": {}
+      "extensions": {
+        "coingeckoId": "sui"
+      }
     },
     {
       "network": "devnet",
@@ -31,7 +35,9 @@
       "decimals": 9,
       "logoURI": "https://cryptototem.com/wp-content/uploads/2022/08/SUI-logo.jpg",
       "tags": [],
-      "extensions": {}
+      "extensions": {
+        "coingeckoId": "sui"
+      }
     },
     {
       "network": "mainnet",
@@ -41,7 +47,9 @@
       "decimals": 9,
       "logoURI": "https://cryptototem.com/wp-content/uploads/2022/08/SUI-logo.jpg",
       "tags": [],
-      "extensions": {}
+      "extensions": {
+        "coingeckoId": "sui"
+      }
     },
     {
       "network": "testnet",
@@ -51,7 +59,9 @@
       "decimals": 9,
       "logoURI": "https://cryptototem.com/wp-content/uploads/2022/08/SUI-logo.jpg",
       "tags": [],
-      "extensions": {}
+      "extensions": {
+        "coingeckoId": "sui"
+      }
     },
     {
       "network": "devnet",
@@ -61,7 +71,9 @@
       "decimals": 9,
       "logoURI": "https://cryptototem.com/wp-content/uploads/2022/08/SUI-logo.jpg",
       "tags": [],
-      "extensions": {}
+      "extensions": {
+        "coingeckoId": "sui"
+      }
     },
     {
       "network": "testnet",
