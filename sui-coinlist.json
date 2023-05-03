@@ -4,6 +4,16 @@
   "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/20947.png",
   "coinlist": [
     {
+      "network": "mainnet",
+      "address": "0x2::coin::Coin<0x2::sui::SUI>",
+      "symbol": "SUI",
+      "name": "Sui Coin",
+      "decimals": 9,
+      "logoURI": "https://cryptototem.com/wp-content/uploads/2022/08/SUI-logo.jpg",
+      "tags": [],
+      "extensions": {}
+    },
+    {
       "network": "testnet",
       "address": "0x2::coin::Coin<0x2::sui::SUI>",
       "symbol": "SUI",
@@ -16,6 +26,16 @@
     {
       "network": "devnet",
       "address": "0x2::coin::Coin<0x2::sui::SUI>",
+      "symbol": "SUI",
+      "name": "Sui Coin",
+      "decimals": 9,
+      "logoURI": "https://cryptototem.com/wp-content/uploads/2022/08/SUI-logo.jpg",
+      "tags": [],
+      "extensions": {}
+    },
+    {
+      "network": "mainnet",
+      "address": "0x2::sui::SUI",
       "symbol": "SUI",
       "name": "Sui Coin",
       "decimals": 9,
