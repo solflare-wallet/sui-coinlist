@@ -169,6 +169,18 @@
       }
     },
     {
+      "network": "testnet",
+      "address": "0x31b14985adb91360ed90a5786cb0956c83e7f275a8ae6123f38adab9d2b792b1::usdc::USDC",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "usd-coin"
+      }
+    },
+    {
       "network": "devnet",
       "address": "0xe158e6df182971bb6c85eb9de9fbfb460b68163d19afc45873c8672b5cc521b2::TOKEN::TestTEST",
       "symbol": "TEST",
