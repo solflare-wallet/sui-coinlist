@@ -272,6 +272,42 @@
       "extensions": {
         "coingeckoId": "ethereum"
       }
+    },
+    {
+      "network": "mainnet",
+      "address": "0xaf8cd5edc19c4512f4259f0bee101a40d41ebed738ade5874359610ef8eeced5::coin::COIN",
+      "symbol": "wETH",
+      "name": "Wrapped Ethereum",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "ethereum"
+      }
+    },
+    {
+      "network": "mainnet",
+      "address": "0xc060006111016b8a020ad5b33834984a437aaa7d3c74c18e09a95d48aceab08c::coin::COIN",
+      "symbol": "USDT",
+      "name": "Tether",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BQcdHdAQW1hczDbBi9hiegXAR7A98Q9jx3X3iBBBDiq4/logo.png",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "tether"
+      }
+    },
+    {
+      "network": "mainnet",
+      "address": "0x5d4b302506645c37ff133b98c4b50a5ae14841659738d6d733d59d0d217a93bf::coin::COIN",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "usd-coin"
+      }
     }
   ]
 }
